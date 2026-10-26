@@ -6,7 +6,7 @@ Generated from [publications.yaml](https://github.com/flashbots/mev-research/blo
 
 Authors tagged *(Flashbots)* are Flashbots-affiliated.
 
-## Academic Papers
+## Papers
 
 47 entries.
 
@@ -60,35 +60,23 @@ Authors tagged *(Flashbots)* are Flashbots-affiliated.
 | 2023-07-20 | [Mempool Privacy: An Economic Perspective](https://arxiv.org/abs/2307.10878) | Antoine Rondelet, Quintus Kilbourn (Flashbots) |
 | 2023-06-29 | [Would Friedman Burn your Tokens?](https://arxiv.org/abs/2306.17025) | Aggelos Kiayias, Philip Lazos, Jan Christoph Schlegel (Flashbots) |
 
-## Flashbots Writings
+## Posts
 
-11 entries.
-
-| Date | Title | Authors |
-| --- | --- | --- |
-| 2026-08-09 | [Why Location Choice Matters](https://writings.flashbots.net/why-location-choice-matters) | Burak Öz (Flashbots), Fei Wu, Luis Correia (Flashbots), Sen Yang, Bruno Mazorra (Flashbots), Stefanos Leonardos |
-| 2026-02-17 | [Network Anonymized Mempools](https://writings.flashbots.net/network-anonymized-mempools) | _not listed_ |
-| 2026-02-14 | [decentralized building: wat do?](https://writings.flashbots.net/decentralized-building-wat-do) | _not listed_ |
-| 2025-06-16 | [MEV and the Limits of Scaling](https://writings.flashbots.net/mev-and-the-limits-of-scaling) | Robert Miller (Flashbots) |
-| 2025-06-02 | [Scalable Oblivious Accesses to Blockchain Data](https://writings.flashbots.net/scalable-oblivious-accesses-to-blockchain-data) | Afonso Tinoco (Flashbots), Tianyao Gu, Elaine Shi, Andrew Miller (Flashbots) |
-| 2024-11-08 | [ZTEE - Trustless Supply Chains](https://writings.flashbots.net/ZTEE2-Supply-Chains) | Quintus Kilbourn (Flashbots), Sylvain Bellemare, Bunnie, Michael Gao |
-| 2024-11-05 | [Parallel block building](https://writings.flashbots.net/parallel-builder) | Robert Miller (Flashbots) |
-| 2024-10-11 | [Zero Trust Execution Environments](https://writings.flashbots.net/ZTEE) | Quintus Kilbourn (Flashbots), Sylvain Bellemare, Jonathan Passerat-Palmbach (Flashbots), Andrew Miller (Flashbots) |
-| 2024-10-04 | [State of Wallets 2024](https://writings.flashbots.net/state-of-wallets-2024) | _not listed_ |
-| 2024-01-25 | [Sirrah: Speedrunning a TEE Coprocessor](https://writings.flashbots.net/suave-tee-coprocessor) | Andrew Miller (Flashbots) |
-| 2024-01-17 | [Illuminating Ethereum's Order Flow Landscape](https://writings.flashbots.net/illuminate-the-order-flow) | Angela Lu (Flashbots) |
-
-## Flashbots Collective Forum Posts
-
-28 entries.
+44 entries.
 
 | Date | Title | Authors |
 | --- | --- | --- |
 | 2026-09-03 | [A Take on Quick Slots](https://collective.flashbots.net/t/a-take-on-quick-slots/5979) | Burak Öz (Flashbots) |
+| 2026-08-09 | [Why Location Choice Matters](https://writings.flashbots.net/why-location-choice-matters) | Burak Öz (Flashbots), Fei Wu, Luis Correia (Flashbots), Sen Yang, Bruno Mazorra (Flashbots), Stefanos Leonardos |
+| 2026-06-08 | [Trustless payments and relays](https://ethresear.ch/t/trustless-payments-and-relays/25125) | Christoph Schlegel (Flashbots) |
 | 2026-04-07 | [When Frontrunning is Alchemy](https://collective.flashbots.net/t/when-frontrunning-is-alchemy/5648) | Data Always (Flashbots) |
 | 2026-03-31 | [When Ahead-of-Time Allocation Fails: The Transition to Kairos](https://collective.flashbots.net/t/when-ahead-of-time-allocation-fails-the-transition-to-kairos/5640) | Burak Öz (Flashbots), Christoph Schlegel (Flashbots), Akaki Mamageishvili |
+| 2026-02-17 | [Network Anonymized Mempools](https://writings.flashbots.net/network-anonymized-mempools) | _not listed_ |
+| 2026-02-14 | [decentralized building: wat do?](https://writings.flashbots.net/decentralized-building-wat-do) | _not listed_ |
 | 2025-12-18 | [A Consensus Layer Client Diversity Snapshot](https://collective.flashbots.net/t/a-consensus-layer-client-diversity-snapshot/5431) | Data Always (Flashbots) |
 | 2025-12-16 | [How the MEV Supply Chain Reacts to Circuit Breakers](https://collective.flashbots.net/t/how-the-mev-supply-chain-reacts-to-circuit-breakers/5439) | Data Always (Flashbots) |
+| 2025-12-10 | [Trustless Payments](https://ethresear.ch/t/trustless-payments/23635) | Bruno Mazorra (Flashbots), Christoph Schlegel (Flashbots), Quintus Kilbourn (Flashbots), Burak Öz (Flashbots), Luis Correia (Flashbots) |
+| 2025-11-19 | [Dynamic Penalties for ePBS](https://ethresear.ch/t/dynamic-penalties-for-epbs/23472) | Christoph Schlegel (Flashbots), Bruno Mazorra (Flashbots) |
 | 2025-11-07 | [The Geography of Block Building](https://collective.flashbots.net/t/the-geography-of-block-building/5367) | Data Always (Flashbots) |
 | 2025-08-04 | [The Free Option Problem in ePBS, Part II](https://collective.flashbots.net/t/the-free-option-problem-in-epbs-part-ii/5145) | Christoph Schlegel (Flashbots), Fei Wu (Flashbots), Burak Öz (Flashbots), Bruno Mazorra (Flashbots) |
 | 2025-07-23 | [An MEV Perspective on Glamsterdam](https://collective.flashbots.net/t/an-mev-perspective-on-glamsterdam/5116) | Data Always (Flashbots), Hasu (Flashbots) |
@@ -97,38 +85,29 @@ Authors tagged *(Flashbots)* are Flashbots-affiliated.
 | 2025-06-26 | [The LVR Gap for Random Block Times](https://collective.flashbots.net/t/the-lvr-gap-for-random-block-times-a-quick-and-useful-approximation/5038) | Christoph Schlegel (Flashbots) |
 | 2025-06-19 | [Fugitive Nodes](https://collective.flashbots.net/t/fugitive-nodes/4773) | Leo Arias (Flashbots) |
 | 2025-06-19 | [RISC-V Explorations](https://collective.flashbots.net/t/risc-v/4793) | Leo Arias (Flashbots) |
+| 2025-06-19 | [Counter Mapping](https://link.excalidraw.com/l/7Qr2ek3pfMQ/91UiAs0EApG) | Leo Arias (Flashbots) |
+| 2025-06-16 | [MEV and the Limits of Scaling](https://writings.flashbots.net/mev-and-the-limits-of-scaling) | Robert Miller (Flashbots) |
+| 2025-06-02 | [Scalable Oblivious Accesses to Blockchain Data](https://writings.flashbots.net/scalable-oblivious-accesses-to-blockchain-data) | Afonso Tinoco (Flashbots), Tianyao Gu, Elaine Shi, Andrew Miller (Flashbots) |
 | 2025-03-03 | [The Block Auction Arms Race](https://collective.flashbots.net/t/the-block-auction-infrastructure-race/4734) | Data Always (Flashbots) |
 | 2024-12-20 | [The Role of Relays in Reorgs](https://collective.flashbots.net/t/the-role-of-relays-in-reorgs/4247) | Data Always (Flashbots) |
 | 2024-12-18 | [Loose SEAL: Enabling Crash-Tolerant TDX Applications by Utilizing SGX Sealing Provider Sidecar](https://collective.flashbots.net/t/loose-seal-enabling-crash-tolerant-tdx-applications-by-utilizing-sgx-sealing-provider-sidecar/4243) | Moe Mahhouk (Flashbots) |
+| 2024-11-08 | [ZTEE - Trustless Supply Chains](https://writings.flashbots.net/ZTEE2-Supply-Chains) | Quintus Kilbourn (Flashbots), Sylvain Bellemare, Bunnie, Michael Gao |
+| 2024-11-05 | [Parallel block building](https://writings.flashbots.net/parallel-builder) | Robert Miller (Flashbots) |
+| 2024-10-11 | [Zero Trust Execution Environments](https://writings.flashbots.net/ZTEE) | Quintus Kilbourn (Flashbots), Sylvain Bellemare, Jonathan Passerat-Palmbach (Flashbots), Andrew Miller (Flashbots) |
 | 2024-10-11 | [TEE-enabled Social Games: An Experiment with Bobu’s Magic Show](https://collective.flashbots.net/t/tee-enabled-social-games-an-experiment-with-bobu-s-magic-show/3963) | Andrew Miller (Flashbots) |
+| 2024-10-04 | [State of Wallets 2024](https://writings.flashbots.net/state-of-wallets-2024) | _not listed_ |
+| 2024-09-25 | [Understanding Minimum Blob Base Fees](https://ethresear.ch/t/understanding-minimum-blob-base-fees/20489) | Data Always (Flashbots) |
 | 2024-09-13 | [Proposing Rights Allocation “SoK”](https://collective.flashbots.net/t/isolating-attesters-from-mev/3837) | Christoph Schlegel (Flashbots), Quintus Kilbourn (Flashbots) |
 | 2024-09-02 | [Inelastic vs. Elastic Supply: Why PoS Could Be Less Centralizing Than Execution Tickets](https://collective.flashbots.net/t/inelastic-vs-elastic-supply-why-proof-of-stake-could-be-less-centralizing-than-execution-tickets/3816) | Christoph Schlegel (Flashbots) |
 | 2024-08-22 | [Building Secure Ethereum Blocks on Minimal Intel TDX Confidential VMs](https://collective.flashbots.net/t/building-secure-ethereum-blocks-on-minimal-intel-tdx-confidential-vms/3795) | Moe Mahhouk (Flashbots) |
 | 2024-06-30 | [Pricing Execution Rights when Rewards are Mean Reverting](https://collective.flashbots.net/t/pricing-execution-rights-when-rewards-are-mean-reverting/3618) | Christoph Schlegel (Flashbots) |
 | 2024-06-22 | [Why wait for the slow train?](https://collective.flashbots.net/t/why-wait-for-the-slow-train/3576) | Andrew Miller (Flashbots) |
 | 2024-06-13 | [5 post capitalist experiments to be better infomed for MEV redistribution](https://collective.flashbots.net/t/5-post-capitalist-experiments-to-be-better-infomed-for-mev-redistribution/3548) | Leo Arias (Flashbots) |
+| 2024-01-25 | [Sirrah: Speedrunning a TEE Coprocessor](https://writings.flashbots.net/suave-tee-coprocessor) | Andrew Miller (Flashbots) |
+| 2024-01-17 | [Illuminating Ethereum's Order Flow Landscape](https://writings.flashbots.net/illuminate-the-order-flow) | Angela Lu (Flashbots) |
 | 2023-12-14 | [When to Sell Your Blocks](https://collective.flashbots.net/t/when-to-sell-your-blocks/2814) | Quintus Kilbourn (Flashbots) |
 | 2023-11-10 | [Demystifying remote attestation by taking it on-chain](https://collective.flashbots.net/t/demystifying-remote-attestation-by-taking-it-on-chain/2629) | Andrew Miller (Flashbots) |
 | 2023-10-05 | [The Economics of Shared Sequencing](https://collective.flashbots.net/t/the-economics-of-shared-sequencing/2514) | Christoph Schlegel (Flashbots) |
 | 2023-08-29 | [Batching, Bidding and Latency](https://collective.flashbots.net/t/batching-bidding-and-latency/2301) | Christoph Schlegel (Flashbots) |
 | 2023-08-26 | [Notes on the SGX TCB Recovery after Downfall](https://collective.flashbots.net/t/notes-on-the-sgx-tcb-recovery-after-downfall/2270) | Andrew Miller (Flashbots) |
-
-## ethresear.ch Post
-
-4 entries.
-
-| Date | Title | Authors |
-| --- | --- | --- |
-| 2026-06-08 | [Trustless payments and relays](https://ethresear.ch/t/trustless-payments-and-relays/25125) | Christoph Schlegel (Flashbots) |
-| 2025-12-10 | [Trustless Payments](https://ethresear.ch/t/trustless-payments/23635) | Bruno Mazorra (Flashbots), Christoph Schlegel (Flashbots), Quintus Kilbourn (Flashbots), Burak Öz (Flashbots), Luis Correia (Flashbots) |
-| 2025-11-19 | [Dynamic Penalties for ePBS](https://ethresear.ch/t/dynamic-penalties-for-epbs/23472) | Christoph Schlegel (Flashbots), Bruno Mazorra (Flashbots) |
-| 2024-09-25 | [Understanding Minimum Blob Base Fees](https://ethresear.ch/t/understanding-minimum-blob-base-fees/20489) | Data Always (Flashbots) |
-
-## Excalidraw
-
-1 entries.
-
-| Date | Title | Authors |
-| --- | --- | --- |
-| 2025-06-19 | [Counter Mapping](https://link.excalidraw.com/l/7Qr2ek3pfMQ/91UiAs0EApG) | Leo Arias (Flashbots) |
 
