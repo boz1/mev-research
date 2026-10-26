@@ -5,7 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Flashbots Research — Publications</title>
 <meta name="description" content="Papers, writings, and research posts from the Flashbots research team.">
-<link rel="icon" href="flashbots.png">
+<!-- flashbots.net's own favicons -->
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
 <!-- link previews; crawlers don't run JS, so a ?q= link shows this same card -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Flashbots Research">
@@ -37,25 +39,25 @@ try { const t = localStorage.getItem("theme"); if(t) document.documentElement.da
   --rule:rgba(55,53,47,.16);
   --rule-soft:rgba(55,53,47,.09);
   --focus:#2eaadc;
-  --venue:#0b6e99;       /* Notion's blue tag, for peer-reviewed venues */
-  --venue-bg:#ddebf1;
+  --venue:#4f46c8;       /* violet tag for peer-reviewed venues; dark uses writings.flashbots.net's accent */
+  --venue-bg:#ecebfb;
   --serif:"CMU Serif",Georgia,"Times New Roman",serif;
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
     color-scheme:dark;
-    --bg:#2f3437;--bg-hover:#373c3f;--ink:rgba(255,255,255,.9);
-    --muted:rgba(255,255,255,.6);--dim:rgba(255,255,255,.4);
-    --rule:rgba(255,255,255,.16);--rule-soft:rgba(255,255,255,.09);
-    --venue:#8ec5e8;--venue-bg:#364954;
+    --bg:#18191a;--bg-hover:#242526;--ink:#f5f6f7;  /* writings.flashbots.net dark palette */
+    --muted:#bec3c9;--dim:#8d949e;
+    --rule:#444950;--rule-soft:#242526;
+    --venue:#808aff;--venue-bg:rgba(128,138,255,.12);
   }
 }
 :root[data-theme="dark"]{
   color-scheme:dark;
-  --bg:#2f3437;--bg-hover:#373c3f;--ink:rgba(255,255,255,.9);
-  --muted:rgba(255,255,255,.6);--dim:rgba(255,255,255,.4);
-  --rule:rgba(255,255,255,.16);--rule-soft:rgba(255,255,255,.09);
-  --venue:#8ec5e8;--venue-bg:#364954;
+  --bg:#18191a;--bg-hover:#242526;--ink:#f5f6f7;  /* writings.flashbots.net dark palette */
+  --muted:#bec3c9;--dim:#8d949e;
+  --rule:#444950;--rule-soft:#242526;
+  --venue:#808aff;--venue-bg:rgba(128,138,255,.12);
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -72,7 +74,7 @@ a:hover{text-decoration-color:currentColor}
 /* ---------- top bar, as on flashbots.net ---------- */
 .topbar{border-bottom:1px solid var(--rule-soft)}
 .topbar .wrap{display:flex;align-items:center;gap:20px;height:52px;font-size:15px}
-.brand{font-weight:700;text-decoration:none;margin-right:auto;display:flex;align-items:center;gap:8px}
+.brand{font-size:16px;text-decoration:none;margin-right:auto;display:flex;align-items:center;gap:8px}
 .brand svg{fill:currentColor}  /* the bolt, as in the writings.flashbots.net navbar */
 .topbar nav{display:flex;gap:18px}
 .topbar nav a{text-decoration:none;color:var(--muted)}
